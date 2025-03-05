@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_intenal_products_intenal_products,intenal_products.intenal_products,model_intenal_products_intenal_products,base.group_user,1,1,1,1
