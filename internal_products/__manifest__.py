@@ -10,7 +10,7 @@
         Long description of module's purpose
     """,
 
-    'author': "Itecnologia",
+    'author': "CB 46",
     'website': "https://itecnologiagt.com",
 
     # Categories can be used to filter modules in modules listing
