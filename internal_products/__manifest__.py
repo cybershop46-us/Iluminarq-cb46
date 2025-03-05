@@ -10,8 +10,8 @@
         Long description of module's purpose
     """,
 
-    'author': "Itecnologia",
-    'website': "https://itecnologiagt.com",
+    'author': "cybershop46",
+    'website': "https://cybershop46.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/16.0/odoo/addons/base/data/ir_module_category_data.xml
