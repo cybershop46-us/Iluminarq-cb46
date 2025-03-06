@@ -10,7 +10,7 @@
         Long description of module's purpose
     """,
 
-    'author': "CB 46",
+    'author': "Cybershop 46",
     'website': "https://cybershop46.com",
 
     # Categories can be used to filter modules in modules listing
