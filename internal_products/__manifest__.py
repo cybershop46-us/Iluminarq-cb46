@@ -11,7 +11,7 @@
     """,
 
     'author': "CB 46",
-    'website': "https://itecnologiagt.com",
+    'website': "https://cybershop46.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/16.0/odoo/addons/base/data/ir_module_category_data.xml
